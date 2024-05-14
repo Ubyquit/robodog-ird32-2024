@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Airbolt';
+    src: url('../fonts/ttf/airbolt-airbolt-regular-400.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'Airbolt', sans-serif;
+}
